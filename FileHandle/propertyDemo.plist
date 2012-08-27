@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>maxiao</key>
+	<dict>
+		<key>age</key>
+		<string>20</string>
+		<key>id</key>
+		<integer>20101551</integer>
+	</dict>
+	<key>maxiao2</key>
+	<dict>
+		<key>age</key>
+		<string>19</string>
+		<key>id</key>
+		<integer>20101001</integer>
+	</dict>
+</dict>
+</plist>
